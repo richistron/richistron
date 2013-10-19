@@ -1,0 +1,14 @@
+node_js:
+  - 0.8
+  - 0.10
+rvm:
+  - 1.9.3
+before_script:
+  - 'ruby -v'
+  - 'npm -v'
+  - 'npm install'  
+  - 'gem install compass'  
+script:
+  - 'grunt'
+notifications:
+  email: false
