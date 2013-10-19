@@ -3,6 +3,11 @@ richistron
 
 richistron's web page
 
+Deploy
+======
+
+http://richistron.github.io/richistron
+
 Status
 ======
 
